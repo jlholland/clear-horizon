@@ -33,7 +33,7 @@
      showgrid="true"
      inkscape:snap-grids="true"
      inkscape:window-width="1533"
-     inkscape:window-height="845"
+     inkscape:window-height="750"
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1">
@@ -58,7 +58,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#eef4d7;fill-opacity:1;stroke:#eef4d7;stroke-width:0.31566146;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#fff6d5;fill-opacity:1;stroke:#fff6d5;stroke-width:0.31566146;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 71.966667,193.8125 c 0,-3.96875 0.069,-2.4191 0.0435,-7.97907 l -0.0435,-9.48343 c -2.470631,-0.0732 -6.614584,0 -7.408334,0 l 0.120688,-31.70766 c 0.02937,-7.71526 0.765654,-14.89079 2.192523,-24.93112 0.580917,-4.0877 1.920123,-12.68205 4.301373,-14.00497 3.594977,-0.002 36.533293,0.0999 75.670833,0 4.7625,2.91042 6.35,31.48542 6.61458,43.12708 l 0,27.19631 h -7.53247 l 0.007,8.40997 c 0.005,6.13876 0.11714,6.19785 0.11714,8.84368 -0.38591,2.07887 -1.55792,7.57212 -1.69354,7.70927 -24.93044,0.0446 -43.93601,0.0746 -70.737631,0.1725 -0.727109,-2.45087 -1.387576,-6.82343 -1.652159,-7.3526 z"
        id="path4662"
        inkscape:connector-curvature="0"
